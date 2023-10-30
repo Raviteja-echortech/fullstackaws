@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "paths": {
+    "/customer/{customerId}": {
+      "name": "/customer/{customerId}",
+      "lambdaFunction": "fullStackProject",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/fullstack/{fullstackId}": {
+      "name": "/fullstack/{fullstackId}",
+      "lambdaFunction": "fullstackprojecta8e2e4b5",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
