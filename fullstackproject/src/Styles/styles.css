@@ -1,0 +1,14 @@
+.sideBar {
+  width: 4.5rem;
+  height: 100vh;
+}
+
+.sideBar:hover {
+  width: 15rem;
+  height: 100vh;
+}
+
+.adjustBox {
+  border: 1px solid green;
+  width: 100%;
+}
